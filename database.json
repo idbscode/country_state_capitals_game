@@ -1,0 +1,1448 @@
+{
+    "countries": {
+		"Afghanistan": {
+		  "capital": "Kabul",
+		  "states": {}
+		},
+		"Albania": {
+		  "capital": "Tirana",
+		  "states": {}
+		},
+		"Algeria": {
+		  "capital": "Algiers",
+		  "states": {}
+		},
+		"Andorra": {
+		  "capital": "Andorra la Vella",
+		  "states": {}
+		},
+		"Angola": {
+		  "capital": "Luanda",
+		  "states": {}
+		},
+		"Antigua and Barbuda": {
+		  "capital": "Saint John's",
+		  "states": {}
+		},
+		"Argentina": {
+		  "capital": "Buenos Aires",
+		  "states": {}
+		},
+		"Armenia": {
+		  "capital": "Yerevan",
+		  "states": {}
+		},
+		"Australia": {
+		  "capital": "Canberra",
+          "currency": "Australian Dollar (AUD)",
+          "area": "7.692 million km²",
+          "fun_fact": "Australia is home to animals found nowhere else, like kangaroos and koalas.",
+		  "states": {
+			"New South Wales": {
+			  "capital": "Sydney"
+			},
+			"Victoria": {
+			  "capital": "Melbourne"
+			},
+			"Queensland": {
+			  "capital": "Brisbane"
+			},
+			"Western Australia": {
+			  "capital": "Perth"
+			},
+			"South Australia": {
+			  "capital": "Adelaide"
+			},
+			"Tasmania": {
+			  "capital": "Hobart"
+			},
+			"Australian Capital Territory": {
+			  "capital": "Canberra"
+			},
+			"Northern Territory": {
+			  "capital": "Darwin"
+			}
+		  }
+		},
+		"Austria": {
+		  "capital": "Vienna",
+		  "states": {}
+		},
+		"Azerbaijan": {
+		  "capital": "Baku",
+		  "states": {}
+		},
+		"Bahamas": {
+		  "capital": "Nassau",
+		  "states": {}
+		},
+		"Bahrain": {
+		  "capital": "Manama",
+		  "states": {}
+		},
+		"Bangladesh": {
+		  "capital": "Dhaka",
+		  "states": {}
+		},
+		"Barbados": {
+		  "capital": "Bridgetown",
+		  "states": {}
+		},
+		"Belarus": {
+		  "capital": "Minsk",
+		  "states": {}
+		},
+		"Belgium": {
+		  "capital": "Brussels",
+		  "states": {}
+		},
+		"Belize": {
+		  "capital": "Belmopan",
+		  "states": {}
+		},
+		"Benin": {
+		  "capital": "Porto-Novo",
+		  "states": {}
+		},
+		"Bhutan": {
+		  "capital": "Thimphu",
+		  "states": {}
+		},
+		"Bolivia": {
+		  "capital": "Sucre",
+		  "states": {}
+		},
+		"Bosnia and Herzegovina": {
+		  "capital": "Sarajevo",
+		  "states": {}
+		},
+		"Botswana": {
+		  "capital": "Gaborone",
+		  "states": {}
+		},
+		"Brazil": {
+		  "capital": "Brasília",
+		  "states": {
+			"Acre": {
+			  "capital": "Rio Branco"
+			},
+			"Alagoas": {
+			  "capital": "Maceió"
+			},
+			"Amapá": {
+			  "capital": "Macapá"
+			},
+			"Amazonas": {
+			  "capital": "Manaus"
+			},
+			"Bahia": {
+			  "capital": "Salvador"
+			},
+			"Ceará": {
+			  "capital": "Fortaleza"
+			},
+			"Espírito Santo": {
+			  "capital": "Vitória"
+			},
+			"Goiás": {
+			  "capital": "Goiânia"
+			},
+			"Maranhão": {
+			  "capital": "São Luís"
+			},
+			"Mato Grosso": {
+			  "capital": "Cuiabá"
+			},
+			"Mato Grosso do Sul": {
+			  "capital": "Campo Grande"
+			},
+			"Minas Gerais": {
+			  "capital": "Belo Horizonte"
+			},
+			"Pará": {
+			  "capital": "Belém"
+			},
+			"Paraíba": {
+			  "capital": "João Pessoa"
+			},
+			"Paraná": {
+			  "capital": "Curitiba"
+			},
+			"Pernambuco": {
+			  "capital": "Recife"
+			},
+			"Piauí": {
+			  "capital": "Teresina"
+			},
+			"Rio de Janeiro": {
+			  "capital": "Rio de Janeiro"
+			},
+			"Rio Grande do Norte": {
+			  "capital": "Natal"
+			},
+			"Rio Grande do Sul": {
+			  "capital": "Porto Alegre"
+			},
+			"Rondônia": {
+			  "capital": "Porto Velho"
+			},
+			"Roraima": {
+			  "capital": "Boa Vista"
+			},
+			"Santa Catarina": {
+			  "capital": "Florianópolis"
+			},
+			"São Paulo": {
+			  "capital": "São Paulo"
+			},
+			"Sergipe": {
+			  "capital": "Aracaju"
+			},
+			"Tocantins": {
+			  "capital": "Palmas"
+			},
+			"Federal District": {
+			  "capital": "Brasília"
+			}
+		  }
+		},
+		"Brunei": {
+		  "capital": "Bandar Seri Begawan",
+		  "states": {}
+		},
+		"Bulgaria": {
+		  "capital": "Sofia",
+		  "states": {}
+		},
+		"Burkina Faso": {
+		  "capital": "Ouagadougou",
+		  "states": {}
+		},
+		"Burundi": {
+		  "capital": "Gitega",
+		  "states": {}
+		},
+		"Cabo Verde": {
+		  "capital": "Praia",
+		  "states": {}
+		},
+		"Cambodia": {
+		  "capital": "Phnom Penh",
+		  "states": {}
+		},
+		"Cameroon": {
+		  "capital": "Yaounde",
+		  "states": {}
+		},
+		"Canada": {
+		  "capital": "Ottawa",
+          "currency": "Canadian Dollar (CAD)",
+          "area": "9.985 million km²",
+          "fun_fact": "Canada has the longest coastline in the world.",
+		  "states": {
+			"Alberta": {
+			  "capital": "Edmonton"
+			},
+			"British Columbia": {
+			  "capital": "Victoria"
+			},
+			"Manitoba": {
+			  "capital": "Winnipeg"
+			},
+			"New Brunswick": {
+			  "capital": "Fredericton"
+			},
+			"Newfoundland and Labrador": {
+			  "capital": "St. John's"
+			},
+			"Nova Scotia": {
+			  "capital": "Halifax"
+			},
+			"Ontario": {
+			  "capital": "Toronto"
+			},
+			"Prince Edward Island": {
+			  "capital": "Charlottetown"
+			},
+			"Quebec": {
+			  "capital": "Quebec City"
+			},
+			"Saskatchewan": {
+			  "capital": "Regina"
+			},
+			"Northwest Territories": {
+			  "capital": "Yellowknife"
+			},
+			"Nunavut": {
+			  "capital": "Iqaluit"
+			},
+			"Yukon": {
+			  "capital": "Whitehorse"
+			}
+		  }
+		},
+		"Central African Republic": {
+		  "capital": "Bangui",
+		  "states": {}
+		},
+		"Chad": {
+		  "capital": "N'Djamena",
+		  "states": {}
+		},
+		"Chile": {
+		  "capital": "Santiago",
+		  "states": {}
+		},
+		"China": {
+		  "capital": "Beijing",
+		  "states": {}
+		},
+		"Colombia": {
+		  "capital": "Bogota",
+		  "states": {}
+		},
+		"Comoros": {
+		  "capital": "Moroni",
+		  "states": {}
+		},
+		"Costa Rica": {
+		  "capital": "San Jose",
+		  "states": {}
+		},
+		"Croatia": {
+		  "capital": "Zagreb",
+		  "states": {}
+		},
+		"Cuba": {
+		  "capital": "Havana",
+		  "states": {}
+		},
+		"Cyprus": {
+		  "capital": "Nicosia",
+		  "states": {}
+		},
+		"Czech Republic": {
+		  "capital": "Prague",
+		  "states": {}
+		},
+		"Democratic Republic of the Congo": {
+		  "capital": "Kinshasa",
+		  "states": {}
+		},
+		"Denmark": {
+		  "capital": "Copenhagen",
+		  "states": {}
+		},
+		"Djibouti": {
+		  "capital": "Djibouti",
+		  "states": {}
+		},
+		"Dominica": {
+		  "capital": "Roseau",
+		  "states": {}
+		},
+		"Dominican Republic": {
+		  "capital": "Santo Domingo",
+		  "states": {}
+		},
+		"Ecuador": {
+		  "capital": "Quito",
+		  "states": {}
+		},
+		"Egypt": {
+		  "capital": "Cairo",
+		  "states": {}
+		},
+		"El Salvador": {
+		  "capital": "San Salvador",
+		  "states": {}
+		},
+		"Equatorial Guinea": {
+		  "capital": "Malabo",
+		  "states": {}
+		},
+		"Eritrea": {
+		  "capital": "Asmara",
+		  "states": {}
+		},
+		"Estonia": {
+		  "capital": "Tallinn",
+		  "states": {}
+		},
+		"Eswatini": {
+		  "capital": "Mbabane",
+		  "states": {}
+		},
+		"Ethiopia": {
+		  "capital": "Addis Ababa",
+		  "states": {}
+		},
+		"Fiji": {
+		  "capital": "Suva",
+		  "states": {}
+		},
+		"Finland": {
+		  "capital": "Helsinki",
+		  "states": {}
+		},
+		"France": {
+		  "capital": "Paris",
+          "currency": "Euro (EUR)",
+          "area": "551,695 km²",
+          "fun_fact": "France is the most visited country in the world.",
+		  "states": {
+			"Auvergne-Rhône-Alpes": {
+			  "capital": "Lyon"
+			},
+			"Bourgogne-Franche-Comté": {
+			  "capital": "Dijon"
+			},
+			"Brittany": {
+			  "capital": "Rennes"
+			},
+			"Centre-Val de Loire": {
+			  "capital": "Orléans"
+			},
+			"Corsica": {
+			  "capital": "Ajaccio"
+			},
+			"Grand Est": {
+			  "capital": "Strasbourg"
+			},
+			"Hauts-de-France": {
+			  "capital": "Lille"
+			},
+			"Île-de-France": {
+			  "capital": "Paris"
+			},
+			"Normandy": {
+			  "capital": "Rouen"
+			},
+			"Nouvelle-Aquitaine": {
+			  "capital": "Bordeaux"
+			},
+			"Occitanie": {
+			  "capital": "Toulouse"
+			},
+			"Pays de la Loire": {
+			  "capital": "Nantes"
+			},
+			"Provence-Alpes-Côte d'Azur": {
+			  "capital": "Marseille"
+			},
+			"Guadeloupe": {
+			  "capital": "Basse-Terre"
+			},
+			"French Guiana": {
+			  "capital": "Cayenne"
+			},
+			"Martinique": {
+			  "capital": "Fort-de-France"
+			},
+			"Mayotte": {
+			  "capital": "Mamoudzou"
+			},
+			"Réunion": {
+			  "capital": "Saint-Denis"
+			}
+		  }
+		},
+		"Gabon": {
+		  "capital": "Libreville",
+		  "states": {}
+		},
+		"Gambia": {
+		  "capital": "Banjul",
+		  "states": {}
+		},
+		"Georgia": {
+		  "capital": "Tbilisi",
+		  "states": {}
+		},
+		"Germany": {
+		  "capital": "Berlin",
+          "currency": "Euro (EUR)",
+          "area": "357,022 km²",
+          "fun_fact": "Germany has more than 20,000 castles.",
+		  "states": {
+			"Baden-Württemberg": {
+			  "capital": "Stuttgart"
+			},
+			"Bavaria": {
+			  "capital": "Munich"
+			},
+			"Berlin": {
+			  "capital": "Berlin"
+			},
+			"Brandenburg": {
+			  "capital": "Potsdam"
+			},
+			"Bremen": {
+			  "capital": "Bremen"
+			},
+			"Hamburg": {
+			  "capital": "Hamburg"
+			},
+			"Hesse": {
+			  "capital": "Wiesbaden"
+			},
+			"Lower Saxony": {
+			  "capital": "Hanover"
+			},
+			"Mecklenburg-Vorpommern": {
+			  "capital": "Schwerin"
+			},
+			"North Rhine-Westphalia": {
+			  "capital": "Düsseldorf"
+			},
+			"Rhineland-Palatinate": {
+			  "capital": "Mainz"
+			},
+			"Saarland": {
+			  "capital": "Saarbrücken"
+			},
+			"Saxony": {
+			  "capital": "Dresden"
+			},
+			"Saxony-Anhalt": {
+			  "capital": "Magdeburg"
+			},
+			"Schleswig-Holstein": {
+			  "capital": "Kiel"
+			},
+			"Thuringia": {
+			  "capital": "Erfurt"
+			}
+		  }
+		},		
+		"Ghana": {
+		  "capital": "Accra",
+		  "states": {}
+		},
+		"Greece": {
+		  "capital": "Athens",
+		  "states": {}
+		},
+		"Grenada": {
+		  "capital": "Saint George's",
+		  "states": {}
+		},
+		"Guatemala": {
+		  "capital": "Guatemala City",
+		  "states": {}
+		},
+		"Guinea": {
+		  "capital": "Conakry",
+		  "states": {}
+		},
+		"Guinea-Bissau": {
+		  "capital": "Bissau",
+		  "states": {}
+		},
+		"Guyana": {
+		  "capital": "Georgetown",
+		  "states": {}
+		},
+		"Haiti": {
+		  "capital": "Port-au-Prince",
+		  "states": {}
+		},
+		"Honduras": {
+		  "capital": "Tegucigalpa",
+		  "states": {}
+		},
+		"Hungary": {
+		  "capital": "Budapest",
+		  "states": {}
+		},
+		"Iceland": {
+		  "capital": "Reykjavik",
+		  "states": {}
+		},
+		"India": {
+		  "capital": "New Delhi",
+		  "currency": "Indian Rupee (INR)",
+		  "area": "3.287 million km²",
+		  "fun_fact": "India has the world's largest postal network with more than 150,000 post offices.",
+		  "states": {
+			"Andhra Pradesh": {
+			  "capital": "Amaravati"
+			},
+			"Arunachal Pradesh": {
+			  "capital": "Itanagar"
+			},
+			"Assam": {
+			  "capital": "Dispur"
+			},
+			"Bihar": {
+			  "capital": "Patna"
+			},
+			"Chhattisgarh": {
+			  "capital": "Raipur"
+			},
+			"Goa": {
+			  "capital": "Panaji"
+			},
+			"Gujarat": {
+			  "capital": "Gandhinagar"
+			},
+			"Haryana": {
+			  "capital": "Chandigarh"
+			},
+			"Himachal Pradesh": {
+			  "capital": "Shimla"
+			},
+			"Jharkhand": {
+			  "capital": "Ranchi"
+			},
+			"Karnataka": {
+			  "capital": "Bengaluru"
+			},
+			"Kerala": {
+			  "capital": "Thiruvananthapuram"
+			},
+			"Madhya Pradesh": {
+			  "capital": "Bhopal"
+			},
+			"Maharashtra": {
+			  "capital": "Mumbai"
+			},
+			"Manipur": {
+			  "capital": "Imphal"
+			},
+			"Meghalaya": {
+			  "capital": "Shillong"
+			},
+			"Mizoram": {
+			  "capital": "Aizawl"
+			},
+			"Nagaland": {
+			  "capital": "Kohima"
+			},
+			"Odisha": {
+			  "capital": "Bhubaneswar"
+			},
+			"Punjab": {
+			  "capital": "Chandigarh"
+			},
+			"Rajasthan": {
+			  "capital": "Jaipur"
+			},
+			"Sikkim": {
+			  "capital": "Gangtok"
+			},
+			"Tamil Nadu": {
+			  "capital": "Chennai"
+			},
+			"Telangana": {
+			  "capital": "Hyderabad"
+			},
+			"Tripura": {
+			  "capital": "Agartala"
+			},
+			"Uttar Pradesh": {
+			  "capital": "Lucknow"
+			},
+			"Uttarakhand": {
+			  "capital": "Dehradun"
+			},
+			"West Bengal": {
+			  "capital": "Kolkata"
+			},
+			"Andaman and Nicobar Islands": {
+			  "capital": "Port Blair"
+			},
+			"Chandigarh": {
+			  "capital": "Chandigarh"
+			},
+			"Dadra and Nagar Haveli and Daman and Diu": {
+			  "capital": "Daman"
+			},
+			"Delhi": {
+			  "capital": "New Delhi"
+			},
+			"Jammu and Kashmir": {
+			  "capital": "Srinagar"
+			},
+			"Ladakh": {
+			  "capital": "Leh"
+			},
+			"Lakshadweep": {
+			  "capital": "Kavaratti"
+			},
+			"Puducherry": {
+			  "capital": "Puducherry"
+			}
+		  }
+		},
+		"Indonesia": {
+		  "capital": "Jakarta",
+		  "states": {}
+		},
+		"Iran": {
+		  "capital": "Tehran",
+		  "states": {}
+		},
+		"Iraq": {
+		  "capital": "Baghdad",
+		  "states": {}
+		},
+		"Ireland": {
+		  "capital": "Dublin",
+		  "states": {}
+		},
+		"Israel": {
+		  "capital": "Jerusalem",
+		  "states": {}
+		},
+		"Italy": {
+		  "capital": "Rome",
+		  "states": {}
+		},
+		"Ivory Coast": {
+		  "capital": "Yamoussoukro",
+		  "states": {}
+		},
+		"Jamaica": {
+		  "capital": "Kingston",
+		  "states": {}
+		},
+		"Japan": {
+		  "capital": "Tokyo",
+		  "states": {}
+		},
+		"Jordan": {
+		  "capital": "Amman",
+		  "states": {}
+		},
+		"Kazakhstan": {
+		  "capital": "Astana",
+		  "states": {}
+		},
+		"Kenya": {
+		  "capital": "Nairobi",
+		  "states": {}
+		},
+		"Kiribati": {
+		  "capital": "South Tarawa",
+		  "states": {}
+		},
+		"Kuwait": {
+		  "capital": "Kuwait City",
+		  "states": {}
+		},
+		"Kyrgyzstan": {
+		  "capital": "Bishkek",
+		  "states": {}
+		},
+		"Laos": {
+		  "capital": "Vientiane",
+		  "states": {}
+		},
+		"Latvia": {
+		  "capital": "Riga",
+		  "states": {}
+		},
+		"Lebanon": {
+		  "capital": "Beirut",
+		  "states": {}
+		},
+		"Lesotho": {
+		  "capital": "Maseru",
+		  "states": {}
+		},
+		"Liberia": {
+		  "capital": "Monrovia",
+		  "states": {}
+		},
+		"Libya": {
+		  "capital": "Tripoli",
+		  "states": {}
+		},
+		"Liechtenstein": {
+		  "capital": "Vaduz",
+		  "states": {}
+		},
+		"Lithuania": {
+		  "capital": "Vilnius",
+		  "states": {}
+		},
+		"Luxembourg": {
+		  "capital": "Luxembourg",
+		  "states": {}
+		},
+		"Madagascar": {
+		  "capital": "Antananarivo",
+		  "states": {}
+		},
+		"Malawi": {
+		  "capital": "Lilongwe",
+		  "states": {}
+		},
+		"Malaysia": {
+		  "capital": "Kuala Lumpur",
+		  "states": {}
+		},
+		"Maldives": {
+		  "capital": "Male",
+		  "states": {}
+		},
+		"Mali": {
+		  "capital": "Bamako",
+		  "states": {}
+		},
+		"Malta": {
+		  "capital": "Valletta",
+		  "states": {}
+		},
+		"Marshall Islands": {
+		  "capital": "Majuro",
+		  "states": {}
+		},
+		"Mauritania": {
+		  "capital": "Nouakchott",
+		  "states": {}
+		},
+		"Mauritius": {
+		  "capital": "Port Louis",
+		  "states": {}
+		},
+		"Mexico": {
+		  "capital": "Mexico City",
+		  "states": {
+			"Aguascalientes": {
+			  "capital": "Aguascalientes"
+			},
+			"Baja California": {
+			  "capital": "Mexicali"
+			},
+			"Baja California Sur": {
+			  "capital": "La Paz"
+			},
+			"Campeche": {
+			  "capital": "Campeche"
+			},
+			"Chiapas": {
+			  "capital": "Tuxtla Gutiérrez"
+			},
+			"Chihuahua": {
+			  "capital": "Chihuahua"
+			},
+			"Coahuila": {
+			  "capital": "Saltillo"
+			},
+			"Colima": {
+			  "capital": "Colima"
+			},
+			"Durango": {
+			  "capital": "Durango"
+			},
+			"Guanajuato": {
+			  "capital": "Guanajuato"
+			},
+			"Guerrero": {
+			  "capital": "Chilpancingo"
+			},
+			"Hidalgo": {
+			  "capital": "Pachuca"
+			},
+			"Jalisco": {
+			  "capital": "Guadalajara"
+			},
+			"Mexico City": {
+			  "capital": "Mexico City"
+			},
+			"México State": {
+			  "capital": "Toluca"
+			},
+			"Michoacán": {
+			  "capital": "Morelia"
+			},
+			"Morelos": {
+			  "capital": "Cuernavaca"
+			},
+			"Nayarit": {
+			  "capital": "Tepic"
+			},
+			"Nuevo León": {
+			  "capital": "Monterrey"
+			},
+			"Oaxaca": {
+			  "capital": "Oaxaca de Juárez"
+			},
+			"Puebla": {
+			  "capital": "Puebla"
+			},
+			"Querétaro": {
+			  "capital": "Querétaro"
+			},
+			"Quintana Roo": {
+			  "capital": "Chetumal"
+			},
+			"San Luis Potosí": {
+			  "capital": "San Luis Potosí"
+			},
+			"Sinaloa": {
+			  "capital": "Culiacán"
+			},
+			"Sonora": {
+			  "capital": "Hermosillo"
+			},
+			"Tabasco": {
+			  "capital": "Villahermosa"
+			},
+			"Tamaulipas": {
+			  "capital": "Ciudad Victoria"
+			},
+			"Tlaxcala": {
+			  "capital": "Tlaxcala"
+			},
+			"Veracruz": {
+			  "capital": "Xalapa"
+			},
+			"Yucatán": {
+			  "capital": "Mérida"
+			},
+			"Zacatecas": {
+			  "capital": "Zacatecas"
+			}
+		  }
+		},
+		"Micronesia": {
+		  "capital": "Palikir",
+		  "states": {}
+		},
+		"Moldova": {
+		  "capital": "Chisinau",
+		  "states": {}
+		},
+		"Monaco": {
+		  "capital": "Monaco",
+		  "states": {}
+		},
+		"Mongolia": {
+		  "capital": "Ulaanbaatar",
+		  "states": {}
+		},
+		"Montenegro": {
+		  "capital": "Podgorica",
+		  "states": {}
+		},
+		"Morocco": {
+		  "capital": "Rabat",
+		  "states": {}
+		},
+		"Mozambique": {
+		  "capital": "Maputo",
+		  "states": {}
+		},
+		"Myanmar": {
+		  "capital": "Naypyidaw",
+		  "states": {}
+		},
+		"Namibia": {
+		  "capital": "Windhoek",
+		  "states": {}
+		},
+		"Nauru": {
+		  "capital": "Yaren",
+		  "states": {}
+		},
+		"Nepal": {
+		  "capital": "Kathmandu",
+		  "states": {}
+		},
+		"Netherlands": {
+		  "capital": "Amsterdam",
+		  "states": {}
+		},
+		"New Zealand": {
+		  "capital": "Wellington",
+		  "states": {}
+		},
+		"Nicaragua": {
+		  "capital": "Managua",
+		  "states": {}
+		},
+		"Niger": {
+		  "capital": "Niamey",
+		  "states": {}
+		},
+		"Nigeria": {
+		  "capital": "Abuja",
+		  "states": {}
+		},
+		"North Korea": {
+		  "capital": "Pyongyang",
+		  "states": {}
+		},
+		"North Macedonia": {
+		  "capital": "Skopje",
+		  "states": {}
+		},
+		"Norway": {
+		  "capital": "Oslo",
+		  "states": {}
+		},
+		"Oman": {
+		  "capital": "Muscat",
+		  "states": {}
+		},
+		"Pakistan": {
+		  "capital": "Islamabad",
+		  "states": {}
+		},
+		"Palau": {
+		  "capital": "Ngerulmud",
+		  "states": {}
+		},
+		"Panama": {
+		  "capital": "Panama City",
+		  "states": {}
+		},
+		"Papua New Guinea": {
+		  "capital": "Port Moresby",
+		  "states": {}
+		},
+		"Paraguay": {
+		  "capital": "Asuncion",
+		  "states": {}
+		},
+		"Peru": {
+		  "capital": "Lima",
+		  "states": {}
+		},
+		"Philippines": {
+		  "capital": "Manila",
+		  "states": {}
+		},
+		"Poland": {
+		  "capital": "Warsaw",
+		  "states": {}
+		},
+		"Portugal": {
+		  "capital": "Lisbon",
+		  "states": {}
+		},
+		"Qatar": {
+		  "capital": "Doha",
+		  "states": {}
+		},
+		"Romania": {
+		  "capital": "Bucharest",
+		  "states": {}
+		},
+		"Russia": {
+		  "capital": "Moscow",
+		  "states": {}
+		},
+		"Rwanda": {
+		  "capital": "Kigali",
+		  "states": {}
+		},
+		"Saint Kitts and Nevis": {
+		  "capital": "Basseterre",
+		  "states": {}
+		},
+		"Saint Lucia": {
+		  "capital": "Castries",
+		  "states": {}
+		},
+		"Saint Vincent and the Grenadines": {
+		  "capital": "Kingstown",
+		  "states": {}
+		},
+		"Samoa": {
+		  "capital": "Apia",
+		  "states": {}
+		},
+		"San Marino": {
+		  "capital": "San Marino",
+		  "states": {}
+		},
+		"Sao Tome and Principe": {
+		  "capital": "Sao Tome",
+		  "states": {}
+		},
+		"Saudi Arabia": {
+		  "capital": "Riyadh",
+		  "states": {}
+		},
+		"Senegal": {
+		  "capital": "Dakar",
+		  "states": {}
+		},
+		"Serbia": {
+		  "capital": "Belgrade",
+		  "states": {}
+		},
+		"Seychelles": {
+		  "capital": "Victoria",
+		  "states": {}
+		},
+		"Sierra Leone": {
+		  "capital": "Freetown",
+		  "states": {}
+		},
+		"Singapore": {
+		  "capital": "Singapore",
+		  "states": {}
+		},
+		"Slovakia": {
+		  "capital": "Bratislava",
+		  "states": {}
+		},
+		"Slovenia": {
+		  "capital": "Ljubljana",
+		  "states": {}
+		},
+		"Solomon Islands": {
+		  "capital": "Honiara",
+		  "states": {}
+		},
+		"Somalia": {
+		  "capital": "Mogadishu",
+		  "states": {}
+		},
+		"South Africa": {
+		  "capital": "Pretoria",
+		  "states": {}
+		},
+		"South Korea": {
+		  "capital": "Seoul",
+		  "states": {}
+		},
+		"South Sudan": {
+		  "capital": "Juba",
+		  "states": {}
+		},
+		"Spain": {
+		  "capital": "Madrid",
+		  "states": {}
+		},
+		"Sri Lanka": {
+		  "capital": "Sri Jayawardenepura Kotte",
+		  "states": {}
+		},
+		"Sudan": {
+		  "capital": "Khartoum",
+		  "states": {}
+		},
+		"Suriname": {
+		  "capital": "Paramaribo",
+		  "states": {}
+		},
+		"Sweden": {
+		  "capital": "Stockholm",
+		  "states": {}
+		},
+		"Switzerland": {
+		  "capital": "Bern",
+		  "states": {}
+		},
+		"Syria": {
+		  "capital": "Damascus",
+		  "states": {}
+		},
+		"Taiwan": {
+		  "capital": "Taipei",
+		  "states": {}
+		},
+		"Tajikistan": {
+		  "capital": "Dushanbe",
+		  "states": {}
+		},
+		"Tanzania": {
+		  "capital": "Dodoma",
+		  "states": {}
+		},
+		"Thailand": {
+		  "capital": "Bangkok",
+		  "states": {}
+		},
+		"Timor-Leste": {
+		  "capital": "Dili",
+		  "states": {}
+		},
+		"Togo": {
+		  "capital": "Lome",
+		  "states": {}
+		},
+		"Tonga": {
+		  "capital": "Nuku'alofa",
+		  "states": {}
+		},
+		"Trinidad and Tobago": {
+		  "capital": "Port of Spain",
+		  "states": {}
+		},
+		"Tunisia": {
+		  "capital": "Tunis",
+		  "states": {}
+		},
+		"Turkey": {
+		  "capital": "Ankara",
+		  "states": {}
+		},
+		"Turkmenistan": {
+		  "capital": "Ashgabat",
+		  "states": {}
+		},
+		"Tuvalu": {
+		  "capital": "Funafuti",
+		  "states": {}
+		},
+		"Uganda": {
+		  "capital": "Kampala",
+		  "states": {}
+		},
+		"Ukraine": {
+		  "capital": "Kyiv",
+		  "states": {}
+		},
+		"United Arab Emirates": {
+		  "capital": "Abu Dhabi",
+		  "states": {}
+		},
+		"United Kingdom": {
+		  "capital": "London",
+          "currency": "Pound Sterling (GBP)",
+          "area": "243,610 km²",
+          "fun_fact": "The UK has one of the oldest parliamentary systems in the world.",
+		  "states": {
+			"England": {
+			  "capital": "London"
+			},
+			"Scotland": {
+			  "capital": "Edinburgh"
+			},
+			"Wales": {
+			  "capital": "Cardiff"
+			},
+			"Northern Ireland": {
+			  "capital": "Belfast"
+			}
+		  }
+		},
+		"United States": {
+		  "capital": "Washington, D.C.",
+          "currency": "United States Dollar (USD)",
+          "area": "9.834 million km²",
+          "fun_fact": "The United States has the world's largest economy by nominal GDP.",
+		  "states": {
+			"Alabama": {
+			  "capital": "Montgomery"
+			},
+			"Alaska": {
+			  "capital": "Juneau"
+			},
+			"Arizona": {
+			  "capital": "Phoenix"
+			},
+			"Arkansas": {
+			  "capital": "Little Rock"
+			},
+			"California": {
+			  "capital": "Sacramento"
+			},
+			"Colorado": {
+			  "capital": "Denver"
+			},
+			"Connecticut": {
+			  "capital": "Hartford"
+			},
+			"Delaware": {
+			  "capital": "Dover"
+			},
+			"Florida": {
+			  "capital": "Tallahassee"
+			},
+			"Georgia": {
+			  "capital": "Atlanta"
+			},
+			"Hawaii": {
+			  "capital": "Honolulu"
+			},
+			"Idaho": {
+			  "capital": "Boise"
+			},
+			"Illinois": {
+			  "capital": "Springfield"
+			},
+			"Indiana": {
+			  "capital": "Indianapolis"
+			},
+			"Iowa": {
+			  "capital": "Des Moines"
+			},
+			"Kansas": {
+			  "capital": "Topeka"
+			},
+			"Kentucky": {
+			  "capital": "Frankfort"
+			},
+			"Louisiana": {
+			  "capital": "Baton Rouge"
+			},
+			"Maine": {
+			  "capital": "Augusta"
+			},
+			"Maryland": {
+			  "capital": "Annapolis"
+			},
+			"Massachusetts": {
+			  "capital": "Boston"
+			},
+			"Michigan": {
+			  "capital": "Lansing"
+			},
+			"Minnesota": {
+			  "capital": "Saint Paul"
+			},
+			"Mississippi": {
+			  "capital": "Jackson"
+			},
+			"Missouri": {
+			  "capital": "Jefferson City"
+			},
+			"Montana": {
+			  "capital": "Helena"
+			},
+			"Nebraska": {
+			  "capital": "Lincoln"
+			},
+			"Nevada": {
+			  "capital": "Carson City"
+			},
+			"New Hampshire": {
+			  "capital": "Concord"
+			},
+			"New Jersey": {
+			  "capital": "Trenton"
+			},
+			"New Mexico": {
+			  "capital": "Santa Fe"
+			},
+			"New York": {
+			  "capital": "Albany"
+			},
+			"North Carolina": {
+			  "capital": "Raleigh"
+			},
+			"North Dakota": {
+			  "capital": "Bismarck"
+			},
+			"Ohio": {
+			  "capital": "Columbus"
+			},
+			"Oklahoma": {
+			  "capital": "Oklahoma City"
+			},
+			"Oregon": {
+			  "capital": "Salem"
+			},
+			"Pennsylvania": {
+			  "capital": "Harrisburg"
+			},
+			"Rhode Island": {
+			  "capital": "Providence"
+			},
+			"South Carolina": {
+			  "capital": "Columbia"
+			},
+			"South Dakota": {
+			  "capital": "Pierre"
+			},
+			"Tennessee": {
+			  "capital": "Nashville"
+			},
+			"Texas": {
+			  "capital": "Austin"
+			},
+			"Utah": {
+			  "capital": "Salt Lake City"
+			},
+			"Vermont": {
+			  "capital": "Montpelier"
+			},
+			"Virginia": {
+			  "capital": "Richmond"
+			},
+			"Washington": {
+			  "capital": "Olympia"
+			},
+			"West Virginia": {
+			  "capital": "Charleston"
+			},
+			"Wisconsin": {
+			  "capital": "Madison"
+			},
+			"Wyoming": {
+			  "capital": "Cheyenne"
+			}
+		  }
+		},
+		"Uruguay": {
+		  "capital": "Montevideo",
+		  "states": {}
+		},
+		"Uzbekistan": {
+		  "capital": "Tashkent",
+		  "states": {}
+		},
+		"Vanuatu": {
+		  "capital": "Port Vila",
+		  "states": {}
+		},
+		"Vatican City": {
+		  "capital": "Vatican City",
+		  "states": {}
+		},
+		"Venezuela": {
+		  "capital": "Caracas",
+		  "states": {}
+		},
+		"Vietnam": {
+		  "capital": "Hanoi",
+		  "states": {}
+		},
+		"Yemen": {
+		  "capital": "Sana'a",
+		  "states": {}
+		},
+		"Zambia": {
+		  "capital": "Lusaka",
+		  "states": {}
+		},
+		"Zimbabwe": {
+		  "capital": "Harare",
+		  "states": {}
+		},
+		"Kosovo": {
+		  "capital": "Pristina",
+		  "states": {}
+		},
+        "Japan": {
+            "capital": "Tokyo",
+            "currency": "Japanese Yen (JPY)",
+            "area": "377,975 km²",
+            "fun_fact": "Japan has more than 6,000 islands.",
+            "states": {}
+        },
+        "Brazil": {
+            "capital": "Brasília",
+            "currency": "Brazilian Real (BRL)",
+            "area": "8.516 million km²",
+            "fun_fact": "Brazil contains most of the Amazon rainforest.",
+            "states": {}
+        },
+
+        "China": {
+            "capital": "Beijing",
+            "currency": "Chinese Yuan (CNY)",
+            "area": "9.597 million km²",
+            "fun_fact": "China has the world's largest population.",
+            "states": {}
+        }
+    }
+}
